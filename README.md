@@ -1,3 +1,3 @@
 # Project_Folder
-All projects
+All projects.
 Author-Samana P Joshi
